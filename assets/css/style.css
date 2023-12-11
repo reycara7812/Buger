@@ -1,0 +1,84 @@
+body {
+    background-color: white;
+    color: gray;
+}
+
+section.bugerjawn {
+    position: relative;
+    align-content: right;
+    padding-bottom: 20px; 
+    border-bottom: 1px solid #000; 
+}
+
+#su {
+    position: relative;
+    float: right;
+    padding: 20px 40px;
+    background-color: grey;
+    color: white;
+    border-bottom: 1px solid #000; 
+}
+
+#bugerjawn h1 {
+    padding-left: 50px; 
+}
+.signup-container {
+    position: relative;
+}
+
+.signup-btn {
+    position: absolute;
+    right: 0;
+    bottom: -0px;
+    padding: 20px 40px;
+}
+
+.btn-brand {
+     background-color: white;
+    color: gray;
+    float: right;
+    padding: 5px 10px;
+    
+}
+
+#burger img {
+    max-width: 100%;
+}
+
+#menu .card {
+    background-color: gray;
+    color: white;
+}
+
+#the-chef img {
+    border-radius: 50%;
+}
+.social-btn {
+    position: absolute;
+    right: 20px; 
+    padding: 30px 60px; 
+}
+
+
+#testimonials .card-custom {
+    background-color: white;
+    color: gray;
+}
+
+.btn-brand, .btn-space {
+    background-color: grey;
+    color: white; 
+    padding: 20px 40px; 
+    font-size: 20px; 
+    margin-right: 20px; 
+}
+
+
+section {
+    border-bottom: 1px solid #000;
+    margin: 60px 0;
+}
+footer {
+    background-color: rgb(155, 155, 155);
+    color: white;
+}
